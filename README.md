@@ -16,3 +16,7 @@ Personal Website
 - Nav bar: updated name to "Stephen Caron, Ph.D."
 - Hero: updated name to "Stephen Caron", title to "Postdoctoral Associate", institution to "Department of Environmental Studies — New York University"
 - Added profile photo (`profile.jpg`) in place of gray placeholder
+
+### 2026-02-19 (publications and CV)
+- Publications: replaced placeholder entries with 4 real publications from `S.Caron_CV_2026.pdf`, including full DOIs where available
+- CV: replaced "available upon request" with a download link to `S.Caron_CV_2026.pdf`
